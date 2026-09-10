@@ -6,7 +6,7 @@ import "./App.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter basename="/WordCount-Using-AVL-Tree">
+    <BrowserRouter basename="/LexiTree">
       <App />
     </BrowserRouter>
   </React.StrictMode>
