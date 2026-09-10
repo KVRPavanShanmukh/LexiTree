@@ -3,7 +3,7 @@
 An advanced **React + D3.js** web application that analyzes real-world text using **AVL Trees** and visually demonstrates how self-balancing trees work step-by-step.
 
 🔗 **Live Demo**  
-(https://kvrpavanshanmukh.github.io/LexiTree/)]
+(https://kvrpavanshanmukh.github.io/LexiTree/)
 
 ---
 
